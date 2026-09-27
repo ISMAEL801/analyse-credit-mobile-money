@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.db
+# mots de passe des comptes de démonstration (en clair) : ne pas publier
+COMPTES_DEMO.md

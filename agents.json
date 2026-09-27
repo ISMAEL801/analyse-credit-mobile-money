@@ -1,0 +1,26 @@
+{
+  "awa.kone": {
+    "nom": "Awa Koné",
+    "salt": "faa750143b7e220f71c4687ded545641",
+    "hash": "99b865335ddcbe9288fd4afa337668a7dea5c479c08674515ecfe1d55e143b8a",
+    "role": "analyste crédit"
+  },
+  "yao.kouassi": {
+    "nom": "Yao Kouassi",
+    "salt": "5ab4d6020c4f4da6ca0b643f84f22be8",
+    "hash": "a8d3cac0a8b5cb0a99eaa9e6acf88bb84002521975687445eb827d472c76e6d7",
+    "role": "analyste crédit"
+  },
+  "mariam.traore": {
+    "nom": "Mariam Traoré",
+    "salt": "e9c2ee3f017486a6a639784c32c94c4a",
+    "hash": "5805cfe663d8bbe4d7b6554efd044629da519a1e171a881dcc0e6242d7c482b7",
+    "role": "analyste crédit"
+  },
+  "ismael": {
+    "nom": "Ismael",
+    "role": "admin",
+    "salt": "8513b6da235999f7000efaceb56614f2",
+    "hash": "e89528f9e8486e8762aeb4cd9b3c91ad2f84e5db9ca56802e8627e65166b2e5d"
+  }
+}

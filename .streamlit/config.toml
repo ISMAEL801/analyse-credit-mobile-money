@@ -1,0 +1,3 @@
+[client]
+# Pas de menu de navigation automatique : l'espace développeur n'est accessible que par son URL (/Admin)
+showSidebarNavigation = false
